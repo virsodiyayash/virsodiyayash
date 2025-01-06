@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/@yash8043" target="blank"><img src="https://img.shields.io/twitter/follow/@yash8043?logo=twitter&style=for-the-badge" alt="@yash8043" /></a> </p>
 
-- 🌱 I’m currently learning **DSA and Web Technology**
+- 🌱 I’m currently learning **Flutter and Python**
 
 - 📫 How to reach me **virsodiyayash4@gmail.com**
 
